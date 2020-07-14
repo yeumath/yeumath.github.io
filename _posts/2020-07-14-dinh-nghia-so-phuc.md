@@ -24,6 +24,6 @@ a) Tính giao hoán (Commutative law):
 $$ab = ba$$ với mọi $$a, b \in \Bbb R$$  
 b) Tính kết hợp (Associative law): $$(ab)c = a(bc)$$ với mọi $$a, b, c \in \Bbb R$$  
 c) Phần tử đơn vị (Additive identity): Tồn tại duy nhất một số thực kí hiệu là $$1$$ thỏa mãn tính chất: $$a.1 = 1.a = a$$ với mọi số $$a \in \Bbb R$$  
-d) Phần tử đối (Additive inverse): Với mọi số thực $$a \neq 0$$ tồn tại duy nhất một số thực $$x$$ thỏa mãn: $$ax = xa = 1$$, số thực $$x$$ này được kí hiệu là $$a^-1$$ hay $$\frac{1}{a}.  
+d) Phần tử đối (Additive inverse): Với mọi số thực $$a \neq 0$$ tồn tại duy nhất một số thực $$x$$ thỏa mãn: $$ax = xa = 1$$, số thực $$x$$ này được kí hiệu là $$a^-1$$ hay $$\frac{1}{a}$$.  
 e) Tính chất phân phối (Distributive law): $$a(b + c) = ab + ac$$ với mọi $$a, b, c \in \Bbb R$$  
 
