@@ -5,7 +5,7 @@ description: "Một kĩ sư đam mê toán học"
 baseurl: ""
 url:
 title_description: "Tôi là một nhà phát minh, nhà vật lý, kỹ sư cơ khí và kỹ sư điện, có niềm đam mê đặc biệt với toán học. "
-title_image: https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG
+title_image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG"
 google_analytics: ""
 disqus_account: 
 github_repository: 
