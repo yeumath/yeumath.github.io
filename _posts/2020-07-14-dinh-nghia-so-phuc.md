@@ -26,5 +26,14 @@ b) Tính kết hợp (Associative law): $$(ab)c = a(bc)$$ với mọi $$a, b, c 
 c) Phần tử đơn vị (Additive identity): Tồn tại duy nhất một số thực kí hiệu là $$1$$ thỏa mãn tính chất: $$a.1 = 1.a = a$$ với mọi số $$a \in \Bbb R$$  
 d) Phần tử đối (Additive inverse): Với mọi số thực $$a \neq 0$$ tồn tại duy nhất một số thực $$x$$ thỏa mãn: $$ax = xa = 1$$, số thực $$x$$ này được kí hiệu là $$a^-1$$ hay $$\frac{1}{a}$$.  
 e) Tính chất phân phối (Distributive law): $$a(b + c) = ab + ac$$ với mọi $$a, b, c \in \Bbb R$$  
-Mọi tập hợp thỏa mãn các tính chất trên được gọi là một *trường(field)*, vậy nên $$\Bbb R$$ là một *trường*. Tương tự $$\Bbb Q$$ cũng là một *trường*. Nhưng $$\Bbb N$$ và $$\Bbb Z$$ không phải là một *trường*.
+Mọi tập hợp thỏa mãn các tính chất trên được gọi là một *trường(field)*, vậy nên $$\Bbb R$$ là một *trường*. Tương tự $$\Bbb Q$$ cũng là một *trường*. Nhưng $$\Bbb N$$ và $$\Bbb Z$$ không phải là một *trường*.  
+## 2. Định nghĩa số phức:
+Một số phức là một cặp có thứ tự các số thực $$(a, b)$$ thỏa mãn các tính chất sau đây: Hai cặp $$(a, b)$$ và $$(c, d)$$ bằng nhau khi và chỉ khi $$a = c$$ và $$b = d$$. Tổng của hai số phức $$(a, b)$$ và $$(c, d)$$ được định nghĩa như sau:  
+$$(a, b) + (c, d) = (a + c, b + d)$$  
+$$(a, b).(c, d) = (ac - bd, bc + ad)$$  
+Từ định nghĩa về hai số phức bằng nhau ta có các tính chất sau:  
+a) Tính phản xạ (Reflexive): $$(a, b) = (b, a)$$ với mọi số phức $$(a, b)$$  
+b) Tính đối xứng $$(a, b) = (c, d)$$ tương đương với $$(c, d) = (a, b)$$  
+c) Tính bắc cầu: $$(a, b) = (c, d)$$ và $$(c, d) = (e, f)$$ thì $$(a, b) = (e, f)$$  
+
 
