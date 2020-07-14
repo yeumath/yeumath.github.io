@@ -9,5 +9,5 @@ categories: Rails
 tags:
  - finders
 ---
-$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
