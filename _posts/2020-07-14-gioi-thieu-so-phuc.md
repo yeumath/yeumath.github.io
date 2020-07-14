@@ -18,6 +18,6 @@ $$\frac{1}{\sqrt3}((\sqrt{-1})^{1 \over 3}+(\sqrt{-1})^{-1 \over 3})$$ và rõ r
 ## 2. Biểu diễn số phức:
 Để biểu diễn cho $$\sqrt{-1}$$ ta dùng kí hiệu $$i$$. Vì vậy số phức là những số có dạng $$a + bi$$ với $$a, b$$ là các số thực và việc tính toán với số phức cũng tương tự như khi tính toán với số thực(chú ý thay $$i^2  =-1$$)
 $$(a + bi) \pm (c + di) = (a \pm c) + (b \pm d)i$$
-$$(a + bi).(c + di) = ac + adi + bci + bdi^2 \text = (ac - bd) + (ad + bc)i$$
+$$(a + bi).(c + di) = ac + adi + bci + bdi^2$$ $$= (ac - bd) + (ad + bc)i$$
 
 $$\frac{a + bi}{c + di} = \frac{(a + bi)(c - di)}{(c - di)(c + di)} = \frac{ac + bd}{c^2 + d^2} + \frac{bc - ad}{c^2 + d^2}i$$
