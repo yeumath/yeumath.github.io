@@ -10,4 +10,4 @@ tags:
  - finders
 ---
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
+$i^2 = -1$
