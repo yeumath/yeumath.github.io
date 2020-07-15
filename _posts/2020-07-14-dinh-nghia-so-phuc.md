@@ -43,8 +43,8 @@ Từ những tính chất trên ta có thể xem những số phức có dạng 
 Tiếp theo ta sẽ xét số phức $$(0, 1)$$:
 Ta có $$(0, 1)^2 = (0, 1)(0, 1) = (-1, 0) = -1$$. Vậy nếu chúng ta kí hiệu $$(0, 1)$$ là $$i$$ thì $$i^2 = -1$$ và một số phức bất kì đều có thể viết dưới dạng sau:  
 $$(a, b) = (a, 0) + (b, 0)(0, 1) = a + bi$$, $$i$$ được gọi là đơn vị ảo(*imaginary unit*).  
-## 3. Số phức liên hợp:  
-Số phức $$(a, -b) = a - bi$$ được gọi là *số phức liên hợp (conjugate complex number)* của số phức $$z = (a, b) = a + bi$$ và được kí hiệu là $$\bar z$$. Với hai số phức $$z_1$$ và $$z_2$$ ta có một vài tính chất sau đây:  
+## 3. Số phức liên hợp: 
+Số phức $$(a, -b) = a - bi$$ được gọi là *số phức liên hợp (conjugate complex number)* của số phức $$z = (a, b) = a + bi$$ và được kí hiệu là $\overline z$. Với hai số phức $$z_1$$ và $$z_2$$ ta có một vài tính chất sau đây:  
 $$\overline{z_1} \pm \overline{z_2} = \overline{z_1 \pm z_2}$$  
 $$\overline{z_1}.\overline z_2 = \overline{z_1.z_2}$$
 
