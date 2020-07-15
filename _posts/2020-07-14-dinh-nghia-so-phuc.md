@@ -52,9 +52,9 @@ $$z + \overline{z} = 2$$.$$\Re$$e $$z$$
 $$z - \overline{z} = 2$$.$$\Im$$m $$z$$  
 $$z.\overline{z} = a^2 + b^2$$  
 ## 4.Mođun của số phức $$z$$, được kí hiệu là $$\vert{z}$$:  
-$$\vert{z} = \sqrt{a^2 + b^2} = \sqrt{z.\overline{z}}$$  
-$$\vert{z} = 0$$ khi và chỉ khi $$z = 0$$  
-$$\vert{$$\Re$$e $$z$$} \le \vert{z}$$
+$$|z| = \sqrt{a^2 + b^2} = \sqrt{z.\overline{z}}$$  
+$$|z| = 0$$ khi và chỉ khi $$z = 0$$  
+$$|$$\Re$$e $$z$$| \le |z|$$
 
 
 
