@@ -47,7 +47,7 @@ $$(a, b) = (a, 0) + (b, 0)(0, 1) = a + bi$$, $$i$$ được gọi là đơn vị
 Số phức $$(a, -b) = a - bi$$ được gọi là *số phức liên hợp (conjugate complex number)* của số phức $$z = (a, b) = a + bi$$ và được kí hiệu là $$\overline z$$. Với hai số phức $$z_1$$ và $$z_2$$ ta có một vài tính chất sau đây:  
 $$\overline{z_1} \pm \overline{z_2} = \overline{z_1 \pm z_2}$$  
 $$\overline{z_1}.\overline{z_2} = \overline{z_1.z_2}$$
-
+$$\overline{\frac{z_1}{z_2}} = \frac{\overline{z_1}}{\overline{z_2}}$$    
 
 
 
