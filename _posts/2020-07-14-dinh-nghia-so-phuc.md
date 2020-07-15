@@ -49,7 +49,10 @@ $$\overline{z_1} \pm \overline{z_2} = \overline{z_1 \pm z_2}$$
 $$\overline{z_1}.\overline{z_2} = \overline{z_1.z_2}$$  
 $$\overline{\frac{z_1}{z_2}} = \frac{\overline{z_1}}{\overline{z_2}}$$, $$(z_2 \neq 0)$$    
 $$z + \overline{z} = 2$$.$$\Re$$e $$z$$  
-$$z - \overline{z} = 2$$.$$\Im$$m $$z$$
+$$z - \overline{z} = 2$$.$$\Im$$m $$z$$  
+$$z.\overline{z} = a^2 + b^2$$  
+**Mođun của số phức $$z$$ được kí hiệu là $$\vert z$$, $$\vert z = \sqrt{a^2 + b^2} = \sqrt{z.\overline{z}}$$*  
+
 
 
 
