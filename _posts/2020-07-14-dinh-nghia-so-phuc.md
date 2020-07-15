@@ -38,8 +38,7 @@ c) Tính bắc cầu: $$(a, b) = (c, d)$$ và $$(c, d) = (e, f)$$ thì $$(a, b) 
 Với các phép cộng và phép nhân được định nghĩa như trên, dễ dàng chứng minh được $$\Bbb C$$ cũng là một *trường*. Bây giờ ta sẽ xét các số phức có dạng $$(a, 0)$$:  
 $$(a, 0) \pm (b, 0) = (a \pm b, 0)$$  
 $$(a, 0).(b, 0) = (ab - 0.0, 0.b + a.0) = (ab, 0)$$  
-$$\frac{(a, 0)}{(b, 0)} = (a, 0).(b^-1, 0) = (ab^-1 - 0.0, 0.b^{-1} + a.0)  
-= (ab^-1, 0) = (\frac{a}{b}, 0) (b \neq 0)$$  
+$$\frac{(a, 0)}{(b, 0)} = (a, 0).(b^{-1}, 0) = (ab^{-1} - 0.0, 0.b^{-1} + a.0)$$ $$(ab^-1, 0) = (\frac{a}{b}, 0) (b \neq 0)$$  
 Từ những tính chất trên ta có thể xem những số phức có dạng $$(a, 0)$$ như là số thực.  
 Tiếp theo ta sẽ xem xét số phức $$(0, 1)$$:
 Ta có $$(0, 1)^2 = (0, 1)(0, 1) = (-1, 0) = -1$$. Vậy nếu chúng ta kí hiệu $$(0, 1)$$ là $$i$$ thì $$i^2 = -1$$ và một số phức bất kì đều có thể viết dưới dạng sau:  
