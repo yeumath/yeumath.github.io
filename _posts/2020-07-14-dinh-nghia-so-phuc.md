@@ -45,7 +45,7 @@ Ta có $$(0, 1)^2 = (0, 1)(0, 1) = (-1, 0) = -1$$. Vậy nếu chúng ta kí hi�
 $$(a, b) = (a, 0) + (b, 0)(0, 1) = a + bi$$, $$i$$ được gọi là đơn vị ảo(*imaginary unit*).  
 ## 3. Số phức liên hợp:  
 Số phức $$(a, -b) = a - bi$$ được gọi là *số phức liên hợp (conjugate complex number)* của số phức $$z = (a, b) = a + bi$$ và được kí hiệu là $$\bar z$$. Với hai số phức $$z_1$$ và $$z_2$$ ta có một vài tính chất sau đây:  
-$$\bar {z_1} \pm \bar {z_2} = \bar{z_1 \pm z_2}$$  
+$$\overline {z_1} \pm \overline {z_2} = \overline{z_1 \pm z_2}$$  
 $$\bar {z_1}.\bar z_2 = \bar{z_1.z_2}$$
 
 
