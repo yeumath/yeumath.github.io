@@ -51,7 +51,8 @@ $$\overline{\frac{z_1}{z_2}} = \frac{\overline{z_1}}{\overline{z_2}}$$, $$(z_2 \
 $$z + \overline{z} = 2$$.$$\Re$$e $$z$$  
 $$z - \overline{z} = 2$$.$$\Im$$m $$z$$  
 $$z.\overline{z} = a^2 + b^2$$  
-## 4.Mođun của số phức $$z$$, được kí hiệu là $$\vert{z}$$:  
+## 4.Mođun của số phức $$z$$:
+Modun của số phức $$z$$ được kí hiệu là $$|z|$$. Sau đây là một vài tính chất của modun của số phức:  
 $$|z| = \sqrt{a^2 + b^2} = \sqrt{z.\overline{z}}$$  
 $$|z| = 0$$ khi và chỉ khi $$z = 0$$  
 $$|\Re e z| \le |z|$$  
