@@ -3,7 +3,7 @@ layout: post
 title: Số phức(phần 3) Một số định lí
 date: 2020-07-16 05:51:00
 author: Nikola Tesla
-summary: Số phức cơ bản phần 3
+summary: Số phức cơ bản
 categories: Algebra
 tags: 
   - Đại số
