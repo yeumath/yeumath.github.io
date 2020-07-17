@@ -55,8 +55,8 @@ $$z.\overline{z} = a^2 + b^2$$
 Modun của số phức $$z$$ được kí hiệu là $$|z|$$. Sau đây là một vài tính chất của modun của số phức:  
 $$|z| = \sqrt{a^2 + b^2} = \sqrt{z.\overline{z}}$$  
 $$|z| = 0$$ khi và chỉ khi $$z = 0$$  
-$$|\Re e z| \le |z|$$  
-$$|\Im m z| \le |z|$$  
+$$\Re e z \le |z|$$  
+$$\Im m z \le |z|$$  
 $$|z| = |\overline{z}|$$  
 $$|z_1.z_2| = |z_1||z_2|$$  
 $$|\frac{z_1}{z_2}| = \frac{|z_1|}{|z_2|}, z_2 \neq 0$$  
