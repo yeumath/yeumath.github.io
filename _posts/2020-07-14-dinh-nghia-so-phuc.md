@@ -3,7 +3,7 @@ layout: post
 title: Số phức(phần 2) Định nghĩa số phức (Definition of Complex Numbers)
 date: 2020-07-14 20:15:00
 author: Nikola Tesla
-summary: Số phức cơ bản phần 2
+summary: Số phức cơ bản
 categories: Algebra
 tags: 
   - Đại số
