@@ -3,7 +3,7 @@ layout: post
 title: Số phức(phần 1) Giới thiệu về số phức
 date: 2020-07-14 12:48:00
 author: Nikola Tesla
-summary: Số phức cơ bản phần 1
+summary: Số phức cơ bản
 categories: Algebra
 tags: 
   - Đại số
