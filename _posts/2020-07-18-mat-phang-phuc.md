@@ -23,8 +23,8 @@ Gọi $$z$$ là một điểm trên đoạn thẳng nối $$z_1z_2$$, tỉ số 
 Chứng minh:  
 Vì $$z_1  - z$$ và $$z_1 - z_2$$ cùng hướng và $$\frac{z_1z}{z_1z_2} = t$$ nên $$z_1  - z = t(z_1 - z_2) \Rightarrow z = (1 - t)z_1 + tz_2$$  
 ## 2. Bài toán 2:
-Trọng tâm của tam giác $$z_1z_2_z3$$ là $$z = \frac{1}{3}(z_1 + z_2 + z_3)$$  
+Trọng tâm của tam giác $$z_1z_2z_3$$ là $$z = \frac{1}{3}(z_1 + z_2 + z_3)$$  
 Chứng minh:  
-Trung điểm của đoạn thẳng $$z_1z_3$$ là $$z = \frac{1}{2}(z_1 + z_3)$$, trọng tâm G của tam giác $$z_1z_2_z3$$ chia trung tuyến nối đỉnh
+Trung điểm của đoạn thẳng $$z_1z_3$$ là $$z = \frac{1}{2}(z_1 + z_3)$$, trọng tâm G của tam giác $$z_1z_2z_3$$ chia trung tuyến nối đỉnh
 $$z_2$$ và trung điểm của đoạn thẳng $$z_1z_3$$ theo tỉ lệ $$2:1$$ nên theo bài toán 1 với $$t = \frac{2}{3}$$ thì
 $$z_G = (1 - \frac{2}{3})z_2 + \frac{2}{3}\frac{1}{2}(z_1 + z_3) = \frac{1}{3}(z_1 + z_2 + z_3)$$  
