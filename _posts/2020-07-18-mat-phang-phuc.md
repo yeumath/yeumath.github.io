@@ -10,7 +10,7 @@ tags:
   - Số phức
 ---
 
-Mỗi số phức là một cặp có thứ tự $$(a, b)$$ nên có thể biểu diễn mỗi số phức như một điểm $$(a, b) trong mặt phẳng $Oxy$$, khi $$b = 0$$ thì các điểm biểu diễn các số phức này
+Mỗi số phức là một cặp có thứ tự $$(a, b)$$ nên có thể biểu diễn mỗi số phức như một điểm $$(a, b) trong mặt phẳng $$Oxy$$, khi $$b = 0$$ thì các điểm biểu diễn các số phức này
 nằm trên trục $$Ox$$, trục $$Ox$$ được gọi là trục thực, khi $$a = 0$$ thì các điểm biểu diễn các số phức này nằm trên trục $$Oy$$, trục $$Oy$$ được gọi là trục ảo. Mặt phẳng
 $$Oxy$$ được gọi là mặt phẳng phức hay mặt phẳng Gauss.    
 Gọi $$A(x, y)$$ là điểm biểu diễn của số phức $$z$$ thì $$|z| = OA = \sqrt{x^2 + y^2}$$  
